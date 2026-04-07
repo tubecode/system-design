@@ -1,0 +1,32 @@
+You are a senior data engineer.
+
+Explain the topic: "<TOPIC-NAME>"
+
+Explain it in very simple terms so that even a beginner can understand.
+
+Please structure the explanation as follows:
+
+1. Simple Definition  
+   - Explain what the topic is in plain, easy language.
+
+2. Technical Definition (Data Engineering Context)  
+   - Explain what it means technically, specifically from a data engineer’s perspective.
+   - Keep it concise and interview-ready.
+
+3. Real-World Analogy  
+   - Explain the concept using a very simple real-life analogy.
+   - Example style: one shop with one worker vs increasing customers and multiple workers.
+   - The analogy should clearly map to data engineering components.
+
+4. Why This Concept Is Important in Data Engineering  
+   - Explain where and why this concept matters in ETL, data pipelines, analytics, or big data systems.
+
+5. Tools & Technologies Used  
+   - List common tools and technologies used to implement or achieve this concept.
+   - Categorize by ingestion, processing, storage, orchestration, or monitoring where applicable.
+   - Keep explanations brief.
+
+6. One-Line Interview Summary  
+   - Provide a short, crisp statement that can be used directly in an interview.
+
+Use simple language, avoid buzzwords unless necessary, and keep the explanation practical and data-engineer focused.
